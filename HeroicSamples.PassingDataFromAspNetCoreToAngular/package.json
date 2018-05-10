@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "cd ClientApp && npm start"
+  },
+  "-vs-binding": { "ProjectOpened": [ "start" ] }
+}
